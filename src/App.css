@@ -10,3 +10,7 @@
         -moz-appearance: textfield !important;
     }
 }
+
+sup {
+    padding: 2px;
+}
